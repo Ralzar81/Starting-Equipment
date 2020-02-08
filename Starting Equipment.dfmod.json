@@ -1,0 +1,14 @@
+{
+    "ModTitle": "Starting Equipment",
+    "ModVersion": "1.0",
+    "ModAuthor": "Ralzar",
+    "ContactInfo": null,
+    "DFUnity_Version": "0.10.18",
+    "ModDescription": "Assigns new character skill appropraite equipment.",
+    "GUID": "50b41298-f43b-4301-8708-4b9851b91ee7",
+    "Files": [
+        "Assets/Game/Mods/Starting Equipment/StartingEquipment.cs"
+    ],
+    "Contributes": null,
+    "Dependencies": null
+}
